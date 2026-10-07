@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#F6F5F0"/><circle cx="1040" cy="500" r="300" fill="#E9EFE6"/>
+  <g transform="translate(90 82.59) scale(1.70588)" fill="#15170F">
+    <text x="0" y="19" font-family="Bricolage Grotesque Variable,Arial,sans-serif" font-size="34" font-weight="720" letter-spacing="-1.87">agev</text>
+    <circle cx="82.31" cy="10.02" r="7.37" fill="none" stroke="#15170F" stroke-width="4.16"/>
+    <path d="M82.31 10.02V5.86a4.16 4.16 0 0 1 4.16 4.16Z"/>
+  </g>
+  <text x="90" y="260" fill="#15170F" font-family="Arial,sans-serif" font-size="76" font-weight="700">Le prenotazioni,</text>
+  <rect x="82" y="290" width="640" height="80" rx="16" fill="#E4F26A" transform="rotate(-1 82 290)"/>
+  <text x="90" y="355" fill="#15170F" font-family="Arial,sans-serif" font-size="76" font-weight="700">senza rincorse.</text>
+  <text x="90" y="445" fill="#4A4E45" font-family="Arial,sans-serif" font-size="31">Prenota · Incassa · Ricorda · Respira</text>
+  <rect x="820" y="105" width="280" height="390" rx="48" fill="#15170F" transform="rotate(4 820 105)"/>
+  <rect x="837" y="125" width="246" height="352" rx="35" fill="#FFFFFF" transform="rotate(4 837 125)"/>
+  <circle cx="965" cy="270" r="58" fill="#E9EFE6"/><path d="m930 271 24 24 49-61" fill="none" stroke="#1AAE39" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="895" y="365" fill="#15170F" font-family="Arial,sans-serif" font-size="31" font-weight="700">Prenotato!</text>
+</svg>
